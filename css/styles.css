@@ -897,11 +897,9 @@ textarea {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 30px;
-}
 
-.backdrop-checkbox {
-    margin-left: 8px;
+    margin-bottom: 30px;
+
     font-size: 14px;
     line-height: 2;
 }
